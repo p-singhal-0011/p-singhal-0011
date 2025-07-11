@@ -213,7 +213,7 @@ Backend Development █████████░░░░░░░░░░░
 
 **Let's build something amazing together! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=tanujsaxena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=p-singhal-0011&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
