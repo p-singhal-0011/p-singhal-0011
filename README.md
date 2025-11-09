@@ -26,7 +26,7 @@ class PriyanshSinghal:
         self.interests = ["Machine learning", "Data Science", "Backend Development", "Data Analytics"]
 
     def current_focus(self):
-        return ["Frontend Projects", "Dashboard Analytics", "ML Models"]
+        return ["Fullstack Projects", "Dashboard Analytics", "ML Models"]
 
     def life_motto(self):
         return "Where data meets decisions, and models meet meaning"
