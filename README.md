@@ -20,8 +20,8 @@
 class PriyanshSinghal:
     def __init__(self):
         self.name = "Priyansh Singhal"
-        self.role = "Data Analytics | UI/UX Developer | Web Developer"
-        self.location = "Greater Noida, India 🇮🇳"
+        self.role = "Data Analytics | UI/UX Developer | Web Developer | Java Backend Developer"
+        self.location = "Noida, India 🇮🇳"
         self.education = "B.Tech CSE @ Sharda University"
         self.interests = ["Machine learning", "Data Science", "Backend Development", "Data Analytics"]
 
