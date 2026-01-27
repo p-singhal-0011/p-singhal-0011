@@ -159,6 +159,10 @@ timeline
 
     2025 : Data Science Projects
          : Power BI • ML • Dashboards
+         : Backend (Advance Java + Spring Boot)
+
+    2026 : Spring Boot projects (MVC, REST APIs, JPA, Hibernate)
+
 ```
 
 ---
