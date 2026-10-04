@@ -35,7 +35,7 @@ using **Java, Spring Boot, React, PostgreSQL and AI**.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,lua,python,docker,kubernetes,mysql,redis&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,docker,kubernetes,mysql,redis&perline=8" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ I enjoy turning real-world problems into practical software solutions, from desi
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
 
 ### ☕ Backend & Frameworks
 
