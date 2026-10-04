@@ -1,228 +1,160 @@
-# 🚀 Hey there, I'm Priyansh Singhal!
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Building%20the%20future%20with%20Code%20&%20AI&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" width="100%"/>
+</div> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+;Machine+Learning+Engineer+;Data+Analyst+📊;UI%2FUX+Designer+🎨;Frontend+Developer+🚀" alt="Typing SVG" />
+<h1>Hi, I'm Priyansh Singhal 👋</h1>
+
+<h3>Java Backend Developer · Full-Stack Developer</h3>
+
+Building scalable **Backend Systems** and **Full-Stack Applications**
+using **Java, Spring Boot, React, PostgreSQL and AI**.
+
+</div>
+
+
+<div align="center">
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 <div align="center">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,lua,python,docker,kubernetes,mysql,redis&perline=8" />
+  </a>
+</p>
+
+</div>
+
+## 👨‍💻 About Me
+
+
+I am a **Java Backend & Full-Stack Developer** focused on building scalable, reliable, and production-ready applications. I specialize in **Java, Spring Boot, REST APIs, PostgreSQL, and React**, with a strong interest in backend architecture, system design, and clean software engineering practices.
+
+I enjoy turning real-world problems into practical software solutions, from designing backend APIs and database systems to building complete full-stack applications and integrating AI capabilities where they add value.
+### 🔧 What I Work With
+
+**Backend Engineering**
+- 🏗️ Building scalable backend applications with **Java & Spring Boot**
+- 🔌 Designing and developing **RESTful APIs and backend services**
+- 🗄️ Working with **PostgreSQL, MySQL, Hibernate & JPA**
+- 🔐 Implementing authentication and authorization with **Spring Security, JWT & OAuth2**
+- ⚡ Using **Redis for caching and performance optimization**
+
+**Full-Stack Development**
+- 🎨 Building responsive frontends with **React, JavaScript, HTML & CSS**
+- 🔄 Connecting modern React applications with **Spring Boot REST APIs**
+- 🧩 Developing complete end-to-end applications from frontend to database
+- 🛠️ Working with **Vite, Bootstrap and modern development tooling**
+
+**Development & Deployment**
+- 🐳 Containerizing applications with **Docker**
+- 🔧 Managing projects with **Maven & Git**
+- 📡 Testing and documenting APIs using **Postman & Swagger/OpenAPI**
+- ☁️ Exploring **cloud deployment and CI/CD practices**
+- 🤖 Integrating **AI/ML APIs and intelligent features** into applications
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,html,css" />
+
+### ☕ Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,bootstrap" />
+
+### 🗄️ Databases & Data
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+
+### 🐳 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,python,flask" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20APIs-000000?style=for-the-badge" />
+
+### ☁️ Cloud
+
+<img src="https://skillicons.dev/icons?i=oracle" />
+
+</div>
+
+## Featured engineering projects
+
+| Project | Focus | What it demonstrates |
+| --- | --- | --- |
+| [Guardrail API](https://github.com/p-singhal-0011/Guardrail-api-engine) | Spring Boot / Backend | REST APIs, PostgreSQL, Redis, authentication |
+| [TaskManager API](https://github.com/p-singhal-0011/TaskManagerAPI) | Backend Engineering | API design, JPA, validation, database architecture |
+| [NeuralKnowledge](https://github.com/p-singhal-0011/Neural-Knowledge) | AI / Backend | AI integration, RAG, Spring Boots |
+| [Medical Image Enhancement](https://github.com/p-singhal-0011/MedEnhanceAI) | AI / Deep Learning | GANs, Transformers, PyTorch, Flask |
+
+## 🧠 Core Skills
+
+**Backend Engineering:** Java, Spring Boot, Spring MVC, REST APIs, Hibernate, JPA, JDBC, layered architecture, API design, backend service development.
+
+**Database Engineering:** PostgreSQL, MySQL, SQL, database design, query optimization, Hibernate/JPA persistence, Redis caching.
+
+**Application Security:** Spring Security, JWT, OAuth2, authentication, authorization, role-based access control, secure REST APIs.
+
+**Full-Stack Development:** React, JavaScript, HTML, CSS, Bootstrap, Vite, REST API integration, end-to-end application development.
+
+**DevOps & Deployment:** Docker, Git, GitHub Actions, Maven, CI/CD fundamentals, API testing, Swagger/OpenAPI, cloud deployment.
+
+**AI & ML Integration:** Python, PyTorch, Flask, AI APIs, Generative AI, machine learning integration, AI-powered application development.
+
+## 🎯 What I Focus On
+
+- Building **production-ready applications** that are runnable, documented, tested, and maintainable.
+- Designing **scalable Java/Spring Boot backend systems** with reliable APIs, databases, security, and caching.
+- Building **end-to-end full-stack applications** by connecting React frontends with robust backend services.
+- Applying **DevOps practices** through Docker, CI/CD, testing, and deployment automation.
+- Turning **AI/ML capabilities into practical software systems** rather than isolated demos.
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshsinghal1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhalpriyansh2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://p-singhal-0011.github.io/Portfolio_Website/)
 
-</div>
+## GitHub stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p-singhal-0011&theme=tokyonight&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p-singhal-0011&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=p-singhal-0011&theme=tokyonight&hide_border=true)
 
-## 🎯 About Me
-
-```python
-class PriyanshSinghal:
-    def __init__(self):
-        self.name = "Priyansh Singhal"
-        self.role = "Java Backend Developer | Data Analytics | UI/UX Developer | Web Developer "
-        self.location = "Noida, India 🇮🇳"
-        self.education = "B.Tech CSE @ Sharda University"
-        self.interests = ["Machine learning", "Data Science", "Backend Development", "Data Analytics"]
-
-    def current_focus(self):
-        return ["Fullstack Projects", "Dashboard Analytics", "ML Models"]
-
-    def life_motto(self):
-        return "Where data meets decisions, and models meet meaning"
-
-me = PriyanshSinghal()
-print(me.life_motto())
-```
-
----
----
-
-## 📊 Development Breakdown
-
-### 🧠 AI & Machine Learning  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
-
-### 📊 Data Analysis & BI  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-### ☁️ Cloud & Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### 🎨 UI/UX & Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### 🛠️ Dev Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-
----
-
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-singhal-0011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-singhal-0011&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-singhal-0011&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p-singhal-0011&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 🚀 Featured Projects
-  
-### 📊 Hospitality Revenue Analysis ([Repo](https://github.com/p-singhal-0011/Hospitality_Data_Analysis_Project))
-- Built Power BI dashboard to diagnose market share drop
-- Delivered 20% improvement in revenue trend insights
-
-### 💡 Sales Insights Dashboard
-- Visualized 4 years of sales data for AtliQ Hardware in Power BI
-- Used SQL for transformation and KPI-driven metrics
-
-### 🌱 AQI Prediction Using ML
-- Developed regression models for predicting AQI to aid in environmental health assessment
-
-### ❤️ Heart Disease Prediction
-- Built classification models to forecast heart disease risk
-
-### 🌐 Research Paper Platform - Bhramaand Inc.
-- Sole developer of custom CMS using HTML/CSS/JS
-- Focused on clean UX, navigation, cross-browser support
-
----
-
-## 🏢 Internship Experience
-
-### UI/UX Developer – Gaura Softwares (May 2024 – July 2024)
-- Designed responsive UI with HTML, CSS, JS, Bootstrap
-- Enhanced mobile experience and deployed via cPanel
-
-### Web Developer – Bhramaand Inc. (June 2023 – Dec 2023)
-- Built a full website from scratch for academic papers
-- Emphasized design clarity and browser compatibility
-
----
-
-## 🎯 Professional Journey
-
-```mermaid
-timeline
-    title Priyansh's Tech Timeline
-
-    2022 : Started B.Tech CSE (DS)
-         : Sharda University
-
-    2023 : Web Dev Intern at Bhramaand Inc.
-         : Multiple Certifications
-         : Frontend • JS • HTML/CSS
-
-    2024 : Multiple Certifications
-         : UI/UX Internship at Gaura Softwares
-         : Responsive Design • Deployment
-         : IIT Kharagpur
-
-    2025 : Data Science Projects
-         : Power BI • ML • Dashboards
-         : Backend (Advance Java + Spring Boot)
-
-    2026 : Spring Boot projects (MVC, REST APIs, JPA, Hibernate)
-
-```
-
----
-
-## 📊 Development Breakdown
-
-```text
-UI/UX Design        █████████░░░░░░░░░░░   40%
-Frontend Development███████░░░░░░░░░░░░░   30%
-Cloud & Deployment  █████████░░░░░░░░░░░   40%
-Data Science        ████████████░░░░░░░░   65%
-Business Analytics  █████████████████░░░   85%
-Machine Learning    █████████████░░░░░░░   70%
-Power BI & Tableau  ██████████████░░░░░░   75%
-Backend Development █████████░░░░░░░░░░░   40%
-```
-
----
-
-## 🌟 Current Focus
-
-<div align="center">
-  
-🔥 **What I'm working on:**
-- 📊 Real-time analytics dashboards with Power BI
-- 💻 Building responsive frontend websites using HTML, CSS, JS & Bootstrap
-- 🧠 Training ML & DL models
-
-🌱 **What I'm learning:**
-- 📈 Advanced Backend Engineering
-- 🤖 Building better pipelines
-- 🧩 Deepening understanding of statistics and business intelligence
-
-</div>
-
----
-
-
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
-
-💡 **Open to opportunities in:**
-- Data Science & Analytics
-- Research & Development
-- Startup Collaborations
-- UI/UX & Frontend Internships
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshsinghal1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhalpriyansh2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://p-singhal-0011.github.io/Portfolio_Website/)
-
-**Let's build something amazing together! 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=p-singhal-0011&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&animation=twinkling&fontColor=white" />
-</div>
