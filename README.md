@@ -15,16 +15,16 @@ using **Java, Spring Boot, React, PostgreSQL and AI**.
 
 <div align="center">
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/priyanshsinghal1/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/Priyansh_Singhal/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:singhalpriyansh2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
